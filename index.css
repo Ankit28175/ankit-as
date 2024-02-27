@@ -1,0 +1,49 @@
+nav a {
+    text-decoration: unset;
+    color: unset;
+}
+#sub-title{
+    color: rgba(255, 255, 255, 0.149);
+    font-size: 100px;
+}
+#title{
+    font-size: 40px;
+    margin-bottom: -50px;
+    margin-left: 10px;
+}
+#About{
+    margin-top: 200px;
+}
+#my{
+    color: gray;
+    margin-left: 30px;
+}
+header{
+    position: fixed;
+    margin-top:-30px ;
+    width: 1000px;
+    background-color: rgba(29, 29, 29, 0.482);
+}
+section{
+    padding-top: 70px;
+}
+#mark{
+     margin-top: -100px;
+    font-size: 200px;
+    color: rgba(255, 255, 255, 0.109);
+}
+#sub-title-p
+{
+    font-size: 250px;
+    color: rgba(255, 255, 255, 0.061);
+    margin-top: -140px;
+
+}
+#title-p{
+    font-size: 80px;
+    margin-top: 220px;
+    text-shadow: 1px 5px 20px white;
+}
+#skills{
+    font-size: 50px;
+}
